@@ -1,3 +1,4 @@
+USE nashville_housing_data
 
 SELECT 
     *
