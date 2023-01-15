@@ -1,6 +1,6 @@
 
 /* This is an exploratory data Analysis on a call center's behavioural trends
-    The analysis tries to find trends in customer and agents behaviour between january and march 2021m
+    The analysis tries to find trends in customer and agents behaviour between january and march 2021
 */
 
 USE call_center;
