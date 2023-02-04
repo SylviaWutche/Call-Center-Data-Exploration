@@ -1,4 +1,4 @@
-# MySQL-Data exploration 
+# Call Center-Data exploration 
 
 This repository contains a data exploration of call center data using MySQL. 
 The data set used in this project includes information on call center calls, 
